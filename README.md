@@ -46,8 +46,8 @@ To stop the application, press `Ctrl + C`.
 ## Sample Output
 
 ```
-Next SpaceX Launch: Starlink 5-1
-Launch Date: Thu, 19 Jan 2024 15:30:00 GMT
+Next SpaceX Launch: [Mission Name]
+Launch Date: [UTC Launch Date/Time]
 
    /\
   /  \
